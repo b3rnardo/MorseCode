@@ -24,9 +24,6 @@ Libraries:
 - matplotlib
 - numpy
 - pyserial
-
-
-bjbvuvuyvyucyucuttxyfxyxyrxtyxy
 """
 
 # --- Import libraries --- #
@@ -34,6 +31,7 @@ import sys
 import serial
 import time
 
+a = 4
 # --- Global variable --- #
 mode = 0
 port = 'COM3'
