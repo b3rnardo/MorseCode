@@ -8,9 +8,7 @@
       Claudinei, Guilherme, Renan
     Lecturer:
       André and Daniel
-sdb s
 
-dgdfg
     Goals:
       Software to train an AI to undestand morse code
 
